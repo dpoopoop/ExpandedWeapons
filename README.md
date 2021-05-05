@@ -1,2 +1,3 @@
 # ExpandedWeapons
-terraria
+terraria open source lol
+121 weapons
