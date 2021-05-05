@@ -1,0 +1,4 @@
+displayName = Expanded Weapons
+author = dpoopoop
+version = 1.01
+includePDB = false

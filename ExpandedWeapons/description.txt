@@ -1,0 +1,85 @@
+Expanded Weapons is a pretty cool mod, it adds over 100 weapons!
+
+It adds more weapons to the more under used weapon types. (Like the Flamethrower)
+
+It also adds more accessories, like more combinations to previous accesories.
+
+Additions
+
+121 Weapons!
+
+Melee
+10 spinner weapons
+9 javelins
+11 boomerangs
+11 yoyos
+4 swords
+
+Ranged
+5 shotguns
+8 flamethrowers
+6 star cannons
+2 normal guns
+2 flare guns
+2 rocket launchers
+
+Magic
+8 rain cloud weapons
+7 magnet sphere weapons
+6 other magic weapons
+
+Summon
+9 sentries
+8 support guns
+8 overhead minions
+4 whips
+1 minion staff
+
+Enemies
+Cloud boss
+16000 HP / 48000 HP (post golem)
+
+Cumulus (cloud boss sidekick)
+8000 HP / 24000 HP (post golem)
+
+Aggressive nimbus (cloud boss minion)
+300 HP / 900 HP (post golem)
+
+Bullethell nimbus (cloud boss minion)
+700 HP / 2100 HP (post golem)
+
+Cloud swarmer (cloud boss minion)
+40 HP / 120 HP (post golem)
+
+Equipables
+Cloud star (expert)
+Endless star canister (ammo)
+Reinforced whip handle
+Frozen whip handle
+Ancient whip handle
+Stardust whip handle
+Solar gauntlet
+Vortex scope
+Nebula emblem
+Michigun emblem
+Michigun mask (melee)
+Michigun helmet (ranged)
+Michigun hood (magic)
+Michigun headgear (summon)
+Michigun suit
+Michigun leggings
+Michigun truffle (mount)
+
+Other items
+Cloud handle (material for rain cloud weapons)
+Cloud trophy
+Cloud bag (expert)
+Soul of cloud
+Strange cloud (boss summon)
+Three spikes (material for all michigun items)
+
+
+
+Credits
+example mod hehe
+weapon out lol
